@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rcohalim/rcohalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,32 +15,24 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
+  <div id="badges">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </div>
+  <p> <img src="https://komarev.com/ghpvc/?username=rcohalim&label=Profile%20views&color=ff8040&style=flat" alt="rcohalim" /> </p>
 </div>
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssss" height="30" width="40" /></a>
-</p>
 
 
-<br>
+<h3 align="center">
+  Hi there! 👋, I'm Ricco,
+  <br> 
+  A passionate developer from Indonesia 🇮🇩
+</h3>
 
-
-
-<h1 align="center">Hi 👋, I'm Ricco</h1>
-<h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rcohalim&label=Profile%20views&color=ff8040&style=flat" alt="rcohalim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rcohalim" alt="rcohalim" /></a> </p>
+## :trophy: Github Profile Trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rcohalim&no-bg=true&no-frame=true&margin-w=15" alt="rcohalim" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itsbigtummy" target="blank"><img src="https://img.shields.io/twitter/follow/itsbigtummy?logo=twitter&style=for-the-badge" alt="itsbigtummy" /></a> </p>
 
@@ -60,5 +50,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcohalim&show_icons=true&theme=tokyonight&locale=en" alt="rcohalim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcohalim&" alt="rcohalim" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rcohalim&theme=tokyonight&hide_border=true&border_radius=50&mode=weekly&card_width=500" alt="rcohalim" /></p>
 
