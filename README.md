@@ -59,7 +59,7 @@ Here are some ideas to get you started:
     I love to play competitive games (including chess) and  
   </li>
   <li>
-    My bio says I love to meet new people, so <a href="https://github.com/rcohalim/rcohalim/tree/main#envelope_with_arrow-connect-with-me">let's connect!</a>
+    My bio says I love to meet new people, so <a href="#envelope_with_arrow-connect-with-me">let's connect!</a>
 
   </li>
 </div>
