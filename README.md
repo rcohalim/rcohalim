@@ -6,7 +6,7 @@
   <br>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/riccohalim"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+    <a href="https://www.linkedin.com/in/riccohalim/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
     <a href="https://www.instagram.com/riccop13"> <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> </a>
     <a href="https://twitter.com/itsbigtummy"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a>
     <a href="https://www.leetcode.com/bigtummy"> <img src="https://img.shields.io/badge/LeetCode-54039A?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/> </a>
@@ -105,10 +105,9 @@
 <br>
 
 <div align="center">
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rcohalim&show_icons=true&theme=tokyonight&locale=en&border_radius=30&hide_border=true&card_width=375" alt="rcohalim" /></p>
-  <p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=rcohalim&theme=tokyonight&hide_border=true&border_radius=30&mode=weekly&card_width=375" alt="rcohalim" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rcohalim&show_icons=true&theme=tokyonight&locale=en&border_radius=30&hide_border=true&card_width=200" alt="rcohalim" /></p>
+  <p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=rcohalim&theme=tokyonight&hide_border=true&border_radius=30&mode=weekly&card_width=200" alt="rcohalim" /></p>
 </div>
-
 
 
 <!--
