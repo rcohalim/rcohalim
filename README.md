@@ -40,11 +40,8 @@
   <li>
     ❤️ I love playing competitive games (including chess ♟️).
   </li>
-  <li>
-    🍻 My bio says I love to meet new people, so <a href="#envelope_with_arrow-connect-with-me">let's connect!</a> <img src="https://cdn3.emoji.gg/emojis/8155_1LeftArrow.gif" width="20px" height="20px">
-  </li>
-  <li>
-    
+  <li valign="center">
+    🍻 My bio says I don't bite people, so let's connect! <img src="https://cdn3.emoji.gg/emojis/8155_1LeftArrow.gif" width="20px" height="20px">
   </li>
 </div>
 
