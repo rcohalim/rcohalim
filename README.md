@@ -1,30 +1,19 @@
-<!--
-**rcohalim/rcohalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/> -->
   <img src="https://media.tenor.com/M4aaIwPdXw0AAAAd/dorian-hooky.gif" width="400"/>
+
+  <br>
+  <br>
+  
   <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://www.linkedin.com/riccohalim"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+    <a href="https://www.instagram.com/riccop13"> <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> </a>
+    <a href="https://twitter.com/itsbigtummy"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a>
+    <a href="https://www.leetcode.com/bigtummy"> <img src="https://img.shields.io/badge/LeetCode-54039A?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/> </a>
   </div>
+
   <p> <img src="https://komarev.com/ghpvc/?username=rcohalim&label=Profile%20views&color=ff8040&style=flat" alt="rcohalim" /> </p>
 </div>
-
-
 
 <h3 align="center">
   Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">  I'm Ricco,
@@ -32,42 +21,36 @@ Here are some ideas to get you started:
   A passionate developer from Indonesia 🇮🇩
 </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+<br>
+
 <div>
   <div align="center">
 <!--     <img src="https://media.tenor.com/M4aaIwPdXw0AAAAd/dorian-hooky.gif" width="400" align="right"/> -->
     <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcohalim&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="rcohalim" /></p>
   </div>
   <li>
-    🔭 I’m currently working on ...
+    🔭 I’m currently working on a website project.
   </li> 
   <li>
-    🌱 I’m currently learning ...
+    🌱 I’m currently learning DevOps.
   </li>
   <li>
-    👯 I’m looking to collaborate on ...
+    👯 I’m looking to collaborate on a full-stack project.
   </li>
   <li>
-    I love to play competitive games (including chess) and  
+    ❤️ I love playing competitive games (including chess ♟️).
   </li>
   <li>
-    My bio says I love to meet new people, so <a href="#envelope_with_arrow-connect-with-me">let's connect!</a>
-
+    🍻 My bio says I love to meet new people, so <a href="#envelope_with_arrow-connect-with-me">let's connect!</a> <img src="https://cdn3.emoji.gg/emojis/8155_1LeftArrow.gif" width="20px" height="20px">
+  </li>
+  <li>
+    
   </li>
 </div>
 
 <br>
 
-## :trophy: Github Profile Trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rcohalim&no-bg=true&no-frame=true&margin-w=15&column=-1" alt="rcohalim" /></a> </p>
+
 
 ## :hammer_and_wrench: Languages and Tools
 <table>
@@ -119,18 +102,24 @@ Here are some ideas to get you started:
 
 <br/>
 
+## :trophy: Github Profile Trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rcohalim&no-bg=true&no-frame=true&margin-w=15&column=-1" alt="rcohalim" /></a> </p>
+
+<br>
+
 <div align="center">
-  
   <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rcohalim&show_icons=true&theme=tokyonight&locale=en&border_radius=30&hide_border=true" alt="rcohalim" /></p>
 </div>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rcohalim&theme=tokyonight&hide_border=true&border_radius=30&mode=weekly&card_width=500" alt="rcohalim" /></p>
 
+<!--
 <br>
-
 ## :envelope_with_arrow: Connect with Me
 <p align="left">
-  <a href="https://twitter.com/itsbigtummy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsbigtummy" height="30" width="40" /></a>
-  <a href="https://instagram.com/riccop13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riccop13" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/bigtummy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bigtummy" height="30" width="40" /></a>
+<a href="https://twitter.com/itsbigtummy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsbigtummy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/riccohalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riccohalim" height="30" width="40" /></a>
+<a href="https://instagram.com/riccop13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riccop13" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bigtummy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bigtummy" height="30" width="40" /></a>
 </p>
+-->
