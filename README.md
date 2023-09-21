@@ -105,10 +105,10 @@
 <br>
 
 <div align="center">
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rcohalim&show_icons=true&theme=tokyonight&locale=en&border_radius=30&hide_border=true" alt="rcohalim" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rcohalim&show_icons=true&theme=tokyonight&locale=en&border_radius=30&hide_border=true&card_width=400" alt="rcohalim" /></p>
 </div>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rcohalim&theme=tokyonight&hide_border=true&border_radius=30&mode=weekly&card_width=500" alt="rcohalim" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rcohalim&theme=tokyonight&hide_border=true&border_radius=30&mode=weekly&card_width=400" alt="rcohalim" /></p>
 
 <!--
 <br>
