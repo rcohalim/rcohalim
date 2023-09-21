@@ -53,23 +53,14 @@ Here are some ideas to get you started:
     🌱 I’m currently learning ...
   </li>
   <li>
-  <b>Loves:</b> anime, osu, rhythm games
+    👯 I’m looking to collaborate on ...
   </li>
   <li>
-  <b>Gender:</b> she/her/Female 🏳️‍⚧️
+    I love to play competitive games (including chess) and  
   </li>
   <li>
-  <b>Git Server</b> https://git.thicc-thighs.de
-  </li>
-  <li>
-  <b>LastFM:</b> https://scrobble.egirldev.co.uk
-  </li>
-  <li>
-<!--   <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development -->
-    I am passionate about  
-  </li>
-  <li>
-    I love to ... in my free time!
+    My bio says I love to meet new people, so <a href="https://github.com/rcohalim/rcohalim/edit/main/README.md#envelope_with_arrow-connect-with-me">let's connect!</a>
+
   </li>
 </div>
 
@@ -133,9 +124,9 @@ Here are some ideas to get you started:
   <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rcohalim&show_icons=true&theme=tokyonight&locale=en&border_radius=30&hide_border=true" alt="rcohalim" /></p>
 </div>
 
-
-
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rcohalim&theme=tokyonight&hide_border=true&border_radius=30&mode=weekly&card_width=500" alt="rcohalim" /></p>
+
+<br>
 
 ## :envelope_with_arrow: Connect with Me
 <p align="left">
