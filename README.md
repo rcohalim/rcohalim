@@ -110,8 +110,6 @@
   <p margin-right="auto"><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=rcohalim&theme=tokyonight&hide_border=true&border_radius=30&mode=weekly&card_width=350" alt="rcohalim" /></p>
 </div>
 
-
-
 <!--
 <br>
 ## :envelope_with_arrow: Connect with Me
