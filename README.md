@@ -101,7 +101,7 @@
 
 ## :trophy: Github Profile Trophy & Badges
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rcohalim&no-bg=true&no-frame=true&margin-w=15&column=-1" alt="rcohalim" /></a> </p>
-<a href="https://app.daily.dev/bigtummy"><img src="https://api.daily.dev/devcards/9ead83e7551048b691ce995afa836cb6.png?r=4v8" width="200" alt="BigTummy's Dev Card"/></a>
+<a href="https://app.daily.dev/bigtummy"><img src=https://github.com/rcohalim/rcohalim/blob/master/devcard.svg  width="200" alt="BigTummy's Dev Card"/></a>
 
 <br>
 
