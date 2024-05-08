@@ -32,10 +32,7 @@
     🔭 I’m currently working on a website project.
   </li> 
   <li>
-    🌱 I’m currently learning DevOps.
-  </li>
-  <li>
-    👯 I’m looking to collaborate on a full-stack project.
+    🌱 I’m currently learning Cloud Engineering, mainly Azure.
   </li>
   <li>
     ❤️ I love playing competitive games (including chess ♟️).
