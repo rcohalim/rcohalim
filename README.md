@@ -27,16 +27,10 @@
     <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcohalim&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="rcohalim" /></p>
   </div>
   <li>
-    🔭 I’m currently working on a website project.
-  </li> 
-  <li>
     🌱 I’m currently learning cloud and blockchain technology.
   </li>
   <li>
     ❤️ I love playing competitive games (including chess ♟️).
-  </li>
-  <li valign="center">
-    🍻 My bio says I don't bite people, so let's connect! <img src="https://cdn3.emoji.gg/emojis/8155_1LeftArrow.gif" width="20px" height="20px">
   </li>
 </div>
 
